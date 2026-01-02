@@ -3,10 +3,6 @@
 </p>
 
 <p align="center">
-  <img src="https://i.pinimg.com/736x/6b/3e/20/6b3e20e6859207012c107807c330e874.jpg" width="520">
-</p>
-
-<p align="center">
   ©︎ <b>Coder</b>: Lua • Python • HTML • CSS • JS<br>
   ©︎ <b>Financier – Investor</b>
 </p>
@@ -24,6 +20,10 @@
 </p>
 
 ---
+
+<p align="center">
+  <img src="https://i.pinimg.com/736x/6b/3e/20/6b3e20e6859207012c107807c330e874.jpg" width="300">
+</p>
 
 <p align="center">
   ⓒ 9micedev — Copyright
