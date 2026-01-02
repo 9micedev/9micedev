@@ -1,9 +1,5 @@
 <p align="center">
-  <img src="https://i.pinimg.com/736x/4f/1e/8e/4f1e8ea0fc16e2ae97a99e5fb9ad4503.jpg" width="560">
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=220&text=Enfants%20Riches%20D%C3%A9prim%C3%A9s&fontAlign=50&fontAlignY=40&fontColor=ffffff&fontSize=34" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=260&text=Enfants%20Riches%20D%C3%A9prim%C3%A9s&fontAlign=50&fontAlignY=40&fontColor=ffffff&fontSize=40" />
 </p>
 
 <p align="center" style="font-family:Georgia, 'Times New Roman', serif; font-size:15px;">
