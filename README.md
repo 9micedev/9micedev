@@ -24,7 +24,7 @@
 ---
 
 <p align="center">
-  <img src="https://i.pinimg.com/736x/8b/ef/ae/8befae4ac2bbe5b0cad5c17996515e92.jpg" width="560">
+  <img src="https://i.pinimg.com/736x/6b/3e/20/6b3e20e6859207012c107807c330e874.jpg" width="560">
 </p>
 
 <p align="center" style="font-family:Georgia, 'Times New Roman', serif; letter-spacing:0.4px;">
