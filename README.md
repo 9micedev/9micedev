@@ -1,4 +1,10 @@
-<h1 align="center">Enfants Riches Déprimés</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=260&text=Enfants%20Riches%20D%C3%A9prim%C3%A9s&fontAlign=50&fontAlignY=40&fontColor=ffffff&fontSize=40" />
+</p>
+
+<p align="center">
+  <img src="https://i.pinimg.com/736x/6b/3e/20/6b3e20e6859207012c107807c330e874.jpg" width="520">
+</p>
 
 <p align="center">
   ©︎ <b>Coder</b>: Lua • Python • HTML • CSS • JS<br>
