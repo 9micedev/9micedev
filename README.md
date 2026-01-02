@@ -19,12 +19,6 @@
   <img src="https://raw.githubusercontent.com/9micedev/guns.lol/main/icons8-javascript-%D0%BB%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF-50.png" height="44" title="JavaScript">
 </p>
 
----
-
-<p align="center">
-  <img src="https://i.pinimg.com/736x/6b/3e/20/6b3e20e6859207012c107807c330e874.jpg" width="380">
-</p>
-
 <p align="center">
   <strong><em>ⓒ 9micedev — Copyright</em></strong>
 </p>
