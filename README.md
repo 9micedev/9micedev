@@ -19,7 +19,7 @@ My main direction is software development with an increasing focus on cybersecur
 
 - automation and scripting
 - web tooling and lightweight user interfaces
-- backend-oriented utility projects
+- backend-oriented utility work
 - security mindset, OSINT, and practical cyber work
 
 ## Stack
