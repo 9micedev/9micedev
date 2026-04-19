@@ -26,7 +26,7 @@ My main direction is software development with an increasing focus on cybersecur
 
 `Python` `JavaScript` `Lua` `HTML` `CSS` `Node.js` `Git`
 
-## Working Style
+## Work Style
 
 - keep projects direct and usable
 - avoid unnecessary complexity
