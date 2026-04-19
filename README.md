@@ -20,14 +20,6 @@ Developer focused on scripting, web tooling, automation, and cybersecurity.
 - Interested in automation, backend systems, OSINT, hardening, and security research
 - Keeping the public profile small and cleaner than the private workspace
 
-## Public Repositories
-
-- [`cops.bio`](https://github.com/9micedev/cops.bio)
-- [`guns.lol`](https://github.com/9micedev/guns.lol)
-- [`gunslol`](https://github.com/9micedev/gunslol)
-- [`fakecrime`](https://github.com/9micedev/fakecrime)
-- [`fakecrime.bio`](https://github.com/9micedev/fakecrime.bio)
-
 ## Current Direction
 
 - refining frontend and web presentation work
