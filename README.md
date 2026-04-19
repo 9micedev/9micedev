@@ -2,7 +2,7 @@
 
 # 9micedev
 
-### code, tooling, automation, security
+### code, tooling, automation, and security
 
 <sub>building things that are useful first and pretty second</sub>
 
