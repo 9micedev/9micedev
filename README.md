@@ -12,7 +12,7 @@
 
 ## About
 
-I work on small tools, web projects, scripts, and backend logic.
+I build small tools, web projects, scripts, and backend logic.
 My main direction is software development with a growing focus on cybersecurity.
 
 ## Areas
