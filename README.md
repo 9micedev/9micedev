@@ -2,29 +2,35 @@
 
 # 9micedev
 
-Developer focused on scripting, web tooling, automation, and cybersecurity.
+### code, tooling, automation, security
 
-<p>
-  <img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Lua-111111?style=for-the-badge&logo=lua&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cybersecurity-111111?style=for-the-badge&logo=securityscorecard&logoColor=white" />
-</p>
+<sub>building things that are useful first and pretty second</sub>
 
 </div>
 
-## Profile
+---
 
-- Building practical tools instead of decorative projects
-- Working with `Python`, `JavaScript`, `Lua`, `HTML`, and `CSS`
-- Interested in automation, backend systems, OSINT, hardening, and security research
-- Keeping the public profile small and cleaner than the private workspace
+## About
 
-## Current Direction
+I work on small tools, web projects, scripts, and backend logic.
+My main direction is software development with a growing focus on cybersecurity.
 
-- refining frontend and web presentation work
-- improving repository quality and structure
-- going deeper into cybersecurity alongside software development
+## Areas
+
+- automation and scripting
+- web tooling and lightweight interfaces
+- backend-oriented utility projects
+- security mindset, OSINT, and practical cyber work
+
+## Stack
+
+`Python` `JavaScript` `Lua` `HTML` `CSS` `Node.js` `Git`
+
+## Approach
+
+- keep projects direct and usable
+- avoid unnecessary complexity
+- improve both engineering quality and security awareness over time
 
 ---
 
