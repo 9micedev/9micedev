@@ -1,36 +1,41 @@
+<div align="center">
+
 # 9micedev
 
-Developer focused on automation, backend tooling, scripting, and cybersecurity.
+Developer focused on scripting, web tooling, automation, and cybersecurity.
 
-## About
+<p>
+  <img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Lua-111111?style=for-the-badge&logo=lua&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cybersecurity-111111?style=for-the-badge&logo=securityscorecard&logoColor=white" />
+</p>
 
-- I build practical tools, bots, web panels, and automation scripts.
-- My main stack is `Python`, `JavaScript`, `HTML/CSS`, and `Lua`.
-- I am also moving deeper into `cybersecurity`, with interest in security research, hardening, OSINT, and offensive/defensive tooling.
-- I prefer projects that are usable, fast, and technically clean over decorative code.
+</div>
 
-## Focus
+## Profile
 
-- backend and utility development
-- Discord and web automation
-- scripting and workflow tooling
-- cybersecurity learning and hands-on security work
+- Building practical tools instead of decorative projects
+- Working with `Python`, `JavaScript`, `Lua`, `HTML`, and `CSS`
+- Interested in automation, backend systems, OSINT, hardening, and security research
+- Keeping the public profile small and cleaner than the private workspace
 
-## Stack
+## Public Repositories
 
-`Python` `JavaScript` `Lua` `HTML` `CSS` `Git` `Node.js`
+- [`cops.bio`](https://github.com/9micedev/cops.bio)
+- [`guns.lol`](https://github.com/9micedev/guns.lol)
+- [`gunslol`](https://github.com/9micedev/gunslol)
+- [`fakecrime`](https://github.com/9micedev/fakecrime)
+- [`fakecrime.bio`](https://github.com/9micedev/fakecrime.bio)
 
 ## Current Direction
 
-- building small real-world tools
-- improving security mindset in my projects
-- studying cybersecurity alongside software development
-
-## Notes
-
-- Most of my repositories are experiments, utilities, or work-in-progress builds.
-- I am actively refining both code quality and security practice.
+- refining frontend and web presentation work
+- improving repository quality and structure
+- going deeper into cybersecurity alongside software development
 
 ---
 
-Profile: [github.com/9micedev](https://github.com/9micedev)
+<div align="center">
+  <sub>github.com/9micedev</sub>
+</div>
