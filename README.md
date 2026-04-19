@@ -15,7 +15,7 @@
 I build small tools, web projects, scripts, and backend systems.
 My main direction is software development with an increasing focus on cybersecurity.
 
-## Focus Areas
+## Focus
 
 - scripting and automation
 - web tooling and lightweight user interfaces
