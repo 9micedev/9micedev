@@ -30,7 +30,7 @@ My main direction is software development with an increasing focus on cybersecur
 
 - keep projects direct and usable
 - avoid unnecessary complexity
-- improve both engineering quality and security awareness over time
+- improve engineering quality and security awareness over time
 
 ---
 
