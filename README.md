@@ -4,7 +4,7 @@
 
 ### code, tooling, automation, and security
 
-<sub>building things that are useful first and pretty second</sub>
+<sub>building things that are useful first and polished second</sub>
 
 </div>
 
