@@ -32,6 +32,11 @@ My main direction is software development with an increasing focus on cybersecur
 - avoid unnecessary complexity
 - improve code quality and security awareness over time
 
+## Collaboration
+
+Open to focused reviews, small pull requests, and practical security-minded improvements.
+Current collaboration testing includes documentation cleanup and repository hygiene work with `vibecasual8-hue`.
+
 ---
 
 <div align="center">
