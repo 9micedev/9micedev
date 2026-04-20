@@ -14,6 +14,19 @@
 <img src="https://img.shields.io/badge/Node.js-0f172a?style=for-the-badge&logo=nodedotjs&logoColor=22c55e" alt="Node.js" />
 <img src="https://img.shields.io/badge/Cybersecurity-0f172a?style=for-the-badge&logo=hackthebox&logoColor=22c55e" alt="Cybersecurity" />
 
+<br />
+<br />
+
+<a href="https://discord.gg/ueVWTaeZZC">
+  <img src="https://img.shields.io/badge/Discord-0f172a?style=for-the-badge&logo=discord&logoColor=5865F2" alt="Discord" />
+</a>
+<a href="https://t.me/killyouridolsss">
+  <img src="https://img.shields.io/badge/Telegram-0f172a?style=for-the-badge&logo=telegram&logoColor=26A5E4" alt="Telegram" />
+</a>
+<a href="https://www.tiktok.com/@9micedev">
+  <img src="https://img.shields.io/badge/TikTok-0f172a?style=for-the-badge&logo=tiktok&logoColor=ffffff" alt="TikTok" />
+</a>
+
 </div>
 
 ---
@@ -80,6 +93,12 @@ open source       clean PRs, documentation, reviewable changes
 ## Collaboration
 
 Open to focused reviews, small pull requests, and practical security-minded improvements. Recent collaboration testing includes documentation cleanup and repository hygiene work with [`vibecasual8-hue`](https://github.com/vibecasual8-hue).
+
+## Links
+
+- Discord: https://discord.gg/ueVWTaeZZC
+- Telegram: https://t.me/killyouridolsss
+- TikTok: https://www.tiktok.com/@9micedev
 
 ---
 
